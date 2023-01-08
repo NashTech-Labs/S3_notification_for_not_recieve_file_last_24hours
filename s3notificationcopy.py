@@ -35,7 +35,7 @@ def check_bucket(i):
 
 def sendnotification(msgsend):
     """Hangouts Chat incoming webhook quickstart."""
-    url = "https://chat.googleapis.com/v1/spaces/ug6dJYAAAAE/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=1p6NmhoowcKhI5Mue3-PEd4pGjOmAW2YdujlbUKW4UA%3D"
+    url = "Enter your webhook"
     message = {}
     msg = msgsend
     text = 'text'
